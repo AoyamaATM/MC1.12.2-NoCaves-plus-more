@@ -1,0 +1,11 @@
+[
+  {
+    "modid": "nocaves",
+    "name": "Aoyama's NoCaves+more",
+    "description": "Controls cave, ravine, lake, and lava generation in the Overworld and Nether. Each feature can be configured individually.",
+    "version": "2.0.0",
+    "mcversion": "1.12.2",
+    "authorList": ["AoyamaATM"],
+    "url": "https://github.com/AoyamaATM/MC1.12.2-NoCaves-plus-more"
+  }
+]
